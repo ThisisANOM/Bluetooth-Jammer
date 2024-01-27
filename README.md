@@ -13,11 +13,11 @@ This project was created for educational purposes and personal use only.
 ## Installation
 
 ```shell
-$ sudo apt update
-$ sudo apt install python3
-$ sudo git clone https://github.com/ThisisANOM/Bluetooth-Jammer.git
-$ cd Bluetooth-Jammer/
-$ python3 Bluetooth-DOS-Attack.py
+sudo apt update
+sudo apt install python3
+sudo git clone https://github.com/ThisisANOM/Bluetooth-Jammer.git
+cd Bluetooth-Jammer/
+python3 Bluetooth-DOS-Attack.py
 ```
 
 ## Note
